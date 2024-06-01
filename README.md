@@ -18,3 +18,6 @@ IMPORTANT! You must have Geode and the Texture Loader mod installed!
 ATTENTION!!! Texture Pack so far only works on PC!
 
 Geode: https://github.com/geode-sdk/geode
+
+
+    Copyright © Weoge 2024
