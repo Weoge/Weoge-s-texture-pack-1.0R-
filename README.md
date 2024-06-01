@@ -12,3 +12,5 @@ ENGLISH
 IMPORTANT! You must have Geode and the Texture Loader mod installed!
 1. Download rar or zip archive
 2. Unpack the contents of the archive here "Geometry Dash\geode\config\geode.texture-loader\packs"
+
+Geode: https://github.com/geode-sdk/geode
