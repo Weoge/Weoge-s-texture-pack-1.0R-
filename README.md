@@ -20,4 +20,4 @@ ATTENTION!!! Texture Pack so far only works on PC!
 Geode: https://github.com/geode-sdk/geode
 
 
-    Copyright © Weoge 2024
+    Copyright © Weoge 2024-2025
